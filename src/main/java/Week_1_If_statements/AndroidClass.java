@@ -14,7 +14,7 @@ public class AndroidClass {
         // Use an OR '||' operator in the condition to check if one or both is true.
         if (takenCsharp || takenJava){
             System.out.println("You meet pre-requisites, you can take Android programming.");
-        } else{
+        } else {
             System.out.println("You do not meet pre-requisites, you can not take Android programming. ");
         }
     }

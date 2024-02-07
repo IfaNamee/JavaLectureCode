@@ -13,14 +13,12 @@ public class HelloInput1 {
 
         String units = "classes";
 
-        if (numberOfClasses == 1){
+        if (numberOfClasses == 1){ // will check if it's singular.
             units = "class";
-        } else{
+        } else { // check if it false.
+            units = "classes";
         }
-
-
         System.out.println("You are taking " + numberOfClasses + " " + units + " this semester.");
-
 
     }
 }

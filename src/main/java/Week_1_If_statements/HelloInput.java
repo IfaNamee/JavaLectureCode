@@ -5,6 +5,7 @@ import static input.InputUtils.*;
 public class HelloInput {
     public static void main(String[] args) {
 
+        // Prompt and ask user to enter in String character.
         String name = stringInput("Please enter your name? ");
         System.out.println("Hello, " + name + "!");
 
