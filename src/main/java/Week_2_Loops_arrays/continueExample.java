@@ -14,7 +14,7 @@ public class continueExample {
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
                 if (i == 2) { // check if i equal 2.
-                    continue; // Skip the current iteration when i equals 2 and continue next loop.
+                    continue; // Skip the current iteration when i equals 2 and continue next loops.
                 }
                 System.out.println(i); // Print message.
             }

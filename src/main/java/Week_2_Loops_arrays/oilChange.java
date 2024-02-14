@@ -12,7 +12,7 @@ public class oilChange {
         }
 
         // Another from to loop
-        int mileage1 = 150000;  // Variable to store mileage
+        int mileage1 = 150000;  // Variable to store mileage.
         int interval1 = 30000;  // Variable to store interval or oil change circle.
 
         System.out.println("...................."); // Used to separate.

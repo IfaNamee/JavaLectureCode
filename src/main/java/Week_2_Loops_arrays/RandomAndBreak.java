@@ -12,7 +12,7 @@ public class RandomAndBreak {
             String user = stringInput();  // Variable string to enter string character.
 
             if (user.equalsIgnoreCase("Q")) { // will check and ignore case.
-                break;  // 'Break' statement help us to stop loops or switch
+                break;  // 'Break' statement help us to stop loops or switch.
                         // statements under certain conditions. Break must be inside of loop.
             }
 

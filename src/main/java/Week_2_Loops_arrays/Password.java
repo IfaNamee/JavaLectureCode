@@ -19,7 +19,7 @@ public class Password {
             maxGuesses--;  // Variable to decrease guesses enter and store.
 
         }
-        // if statement let user try max guesses and after max guesses exit program
+        // if statement let user try max guesses and after max guesses exit program.
         if (maxGuesses > 1) {  // will count max guesses to initialize number .
             System.out.println("Correct password - access granted"); // Print message.
         } else { // will apply if user is rich max guesses

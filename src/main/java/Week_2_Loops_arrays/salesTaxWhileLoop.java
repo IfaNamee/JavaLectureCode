@@ -9,7 +9,7 @@ public class salesTaxWhileLoop {
         // Using while loop and boolean condition to calculate task -
         //sale and ask user to continue to run program.
         boolean moreCalculations = true;  // Variable boolean to ask yesNo question.
-        double price;   // Variable double to store price.
+        double price;    // Variable double to store price.
         double saleTax = 1.07; // Variable double to initialize.
 
         // While loop repeat as long as the user want to calculations.

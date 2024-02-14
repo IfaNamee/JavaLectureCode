@@ -1,11 +1,13 @@
 package Week_2_Loops_arrays;
 
+import java.util.Random;
 import static input.InputUtils.intInput;
 
 public class GuessTheNumber {
     public static void main(String[] args) {
 
-        int secretNumber = 7;  // Variable integer to store secret number.
+        Random random = new Random(); // Random number object generator object.
+        int secretNumber = random.nextInt(0,10);  // Generate a random number 1-9 and store.
 
         int guess = intInput("Guess the number!");  // Ask user to enter integer number.
 

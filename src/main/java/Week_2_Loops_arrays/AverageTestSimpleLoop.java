@@ -5,7 +5,7 @@ import static input.InputUtils.doubleInput;
 public class AverageTestSimpleLoop {
     public static void main(String[] args) {
 
-        // calculate the average of 5 test scores
+        // calculate the average of 5 test scores.
 
         int numberOfTests = 5;       // Variable integer to store number of tests.
         double testScore;            // Variable double to record each test.

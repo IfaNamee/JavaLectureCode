@@ -14,7 +14,7 @@ public class Stars {
             // Inner for loop. For each row, print a star 'size' times
             for (int y = 0; y < size; y++) {
                 // Notice System.out.print - not println. This doesn't add the newline
-                // at the end of the output, so all the stars are on same line
+                // at the end of the output, so all the stars are on same line.
                 System.out.print("* ");
             }
 

@@ -15,7 +15,7 @@ public class January {
             } else if (day == 3 || day == 23) {  // will check if it has 'rd' at the end.
                 System.out.println("January " + day + "rd");  // Print result
             } else { // will check if it has 'th' at the end.
-                System.out.println("January " + day + "th");  // Print result
+                System.out.println("January " + day + "th");  // Print result.
             }
         }
     }
