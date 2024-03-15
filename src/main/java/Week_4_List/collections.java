@@ -30,7 +30,7 @@ public class collections {
         Collections.reverse(classNames);
         System.out.println(classNames);
 
-        // Find the minimum element in the list (alphabetically first)
+        // Find the minimum element in the list (alphabetically first).
         System.out.println("Min example:");
         String alphabeticalFirst = Collections.min(classNames);
         System.out.println(alphabeticalFirst);

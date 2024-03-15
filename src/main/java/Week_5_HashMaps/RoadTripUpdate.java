@@ -36,7 +36,7 @@ class RoadTripUpdate {
             }
         }
 
-        // Outputting the results
+        // Outputting the results.
         if (cities.isEmpty()){ // If no cities are within the maximum driving distance
             System.out.println("Sorry, no city associated with in your driving distance.");
         } else { // If there are cities within the maximum driving distance

@@ -6,7 +6,7 @@ public class Credits {
     public static void main(String[] args) {
 
         // The 'main' method is used to prompt the user to enter the number of credits required by the
-        // program and the number of credits earned by the student.
+        // program and the number of credits earned by the student
         int required = intInput("How many credits does your program required? ");
         int earned = intInput("How many credits you earned? ");
 

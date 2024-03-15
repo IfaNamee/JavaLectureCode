@@ -15,7 +15,7 @@ public class Squares {
     }
 
     // This method takes one argument, a number.
-    // It calculates the square of the number by multiply original number and print out.
+    // It calculates the square of the number by multiply original number and print out
     private static void square(double number) { // This method is don't return.
 
         double sq = number * number; // multiply by itself.(by user entered).

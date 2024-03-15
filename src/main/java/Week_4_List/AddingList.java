@@ -20,7 +20,7 @@ public class AddingList {
 
         // Print the classCodes list
         System.out.println(classCodes);
-        // Print the size of the classCodes list
+        // Print the size of the classCodes list.
         System.out.println(classCodes.size());
 
         // Loop through each integer in the classCodes list

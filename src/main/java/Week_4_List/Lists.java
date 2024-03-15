@@ -9,7 +9,7 @@ public class Lists {
         // Create a new ArrayList of strings
         List<String> arrayList = new ArrayList<>();
 
-        // Add some strings to the ArrayList
+        // Add some strings to the ArrayList.
         arrayList.add("Hello");
         arrayList.add("World");
         arrayList.add("Ifa");

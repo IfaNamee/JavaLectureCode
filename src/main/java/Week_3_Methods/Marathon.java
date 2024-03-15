@@ -16,7 +16,7 @@ public class Marathon {
             week++;   // counter week incremented by 1.
         }
 
-        System.out.println(week + " " + start); // Print message.
+        System.out.println(week + " " + start); // Print message
 
     }
 }

@@ -34,7 +34,7 @@ public class Lemonade {
         return cookiesProfit;  // Return value of cookies profit to print out
     }
 
-    // The 'lemonadeProfit' methods are appropriate values as arguments.
+    // The 'lemonadeProfit' methods are appropriate values as arguments
     // The result of lemonade profit calculation is stored in variables.
     private static double lemonadeProfit(double lemonadeSupplies, double lemonadeSalePrice, int lemonadeCupsSold) {
         double lemonadesProfit = (lemonadeCupsSold * lemonadeSalePrice) - lemonadeSupplies;

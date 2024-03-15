@@ -34,7 +34,7 @@ public class ToDoList {
         System.out.println("You have " + toDoList.size() + " to do.");
 
     }
-    // Method to check if a list contains a string (ignoring case)
+    // Method to check if a list contains a string (ignoring case).
     public static boolean containsIgnoreCase(List<String>list, String enter) {
         for (String item: list){
             if (item.equalsIgnoreCase(enter)){

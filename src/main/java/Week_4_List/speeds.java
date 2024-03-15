@@ -27,7 +27,7 @@ public class speeds {
             System.out.printf("Hour: %d Speed: %.2f\n", hour, speed);
         }
 
-        // Count the number of times the speed was 0 (indicating no connection)
+        // Count the number of times the speed was 0 (indicating no connection).
         int zeroCount = 0;
         for (double speed : speeds) {
             if (speed == 0) {

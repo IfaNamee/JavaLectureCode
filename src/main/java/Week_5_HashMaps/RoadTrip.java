@@ -18,7 +18,7 @@ public class RoadTrip {
         distances.put("Red wing", 54);
         distances.put("Ely", 245);
 
-        System.out.println(distances);  // Print Message
+        System.out.println(distances);  // Print Message.
 
         // Prompt and ash user to enter number.
         int maxDriveDistance = positiveIntInput("Enter the max distance you want to drive? ");

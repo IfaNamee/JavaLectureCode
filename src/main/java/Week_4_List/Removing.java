@@ -17,7 +17,7 @@ public class Removing {
         // Print the classNames list
         System.out.println(classNames);
 
-        // Remove the string "Project Management" from the classNames list
+        // Remove the string "Project Management" from the classNames list.
         classNames.remove("Project Management"); // object remove
         // Print the classNames list after removing "Project Management"
         System.out.println(classNames);

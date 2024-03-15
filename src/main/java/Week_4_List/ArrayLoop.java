@@ -5,6 +5,7 @@ public class ArrayLoop {
 
         String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
 
+        // print message each.
         for (String day: days){
             System.out.println(day);
         }

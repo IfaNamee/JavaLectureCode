@@ -12,7 +12,7 @@ public class HelloMethods {
 
     public static String makeGreeting(String n){
         //  The "public static" keyword is an access modifier that indicates that the method can
-        //be accessed from any other class.
+        //be accessed from any other class
 
         // The "String" or "int" keyword specifies the return type of the method. In this case,
         // the method returns an integer or String value.

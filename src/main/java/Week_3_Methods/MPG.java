@@ -17,7 +17,7 @@ public class MPG {
     // The miles and gas variables are passed as parameters to the milesPerGallon method.
     // The mpg variable contains the outcome.
     public static double milesPerGallon(double miles, double gallonOfGas){
-        double mpg = miles / gallonOfGas; // Math formula to calculate.
+        double mpg = miles / gallonOfGas; // Math formula to calculate
         return mpg; // Return value mpg.
     }
 }

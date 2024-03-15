@@ -9,7 +9,7 @@ public class classCode {
         // Creating a HashMap to store class codes and names
         Map<Integer, String> classCodes = new HashMap<>();
 
-        // Adding class codes and names to the HashMap
+        // Adding class codes and names to the HashMap.
         classCodes.put(2545,"Java");
         classCodes.put(1425,"DataCommunication");
         classCodes.put(2560,"Web");

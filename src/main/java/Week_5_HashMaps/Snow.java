@@ -44,7 +44,7 @@ public class Snow {
             System.out.println("There is no snow in July.");
         }
 
-        // Prompt user to input new month and snowfall data
+        // Prompt user to input new month and snowfall data.
         String newMonth = stringInput("Enter name of month ");
         double amountSnow = positiveDoubleInput("Enter amount of snow for " + newMonth);
 

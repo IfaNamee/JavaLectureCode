@@ -14,7 +14,7 @@ public class MileToKm { //  method is the entry point of the program.
     }
 
     private static double milesToKm(double miles) {
-        // The 'milesToKm' method is called with the 'double miles'
+        // The 'milesToKm' method is called with the 'double miles'.
         // variable as an argument. The result is stored in the km variable.
         double km = miles * 1.6;
         return km;  // return valve to print.

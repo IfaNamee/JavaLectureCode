@@ -11,7 +11,7 @@ public class Count {
 
         System.out.println("I will count from " + smallNumber + " to " + largeNumber); // Prompt and print.
 
-        count(smallNumber,largeNumber);  // count parameter create.
+        count(smallNumber,largeNumber);  // count parameter create
     }
 
     // Methods that don't return.

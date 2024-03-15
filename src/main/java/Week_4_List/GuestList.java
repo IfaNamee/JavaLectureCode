@@ -13,7 +13,7 @@ public class GuestList {
         // Create a list to store guest names
         List<String> guestList = new ArrayList<>();
 
-        // get guest names until the user chooses to quit
+        // get guest names until the user chooses to quit.
         while (true) {
             String name = stringInput("Enter name of guest or enter to quit");
 

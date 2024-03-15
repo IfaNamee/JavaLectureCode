@@ -16,6 +16,6 @@ public class CorporateSponsors {
             sponsors[i] = sponsor;  //  assign to the same index in the sponsors array.
         }
 
-        System.out.println(Arrays.toString(sponsors)); // Print message.
+        System.out.println(Arrays.toString(sponsors)); // Print message
     }
 }

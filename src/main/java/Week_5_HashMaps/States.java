@@ -46,7 +46,6 @@ public class States {
         // Size HashMap
         // "size" class returns the number of key-value mappings in the map.
         // It provides the size or the number of entries present in the map.
-
         System.out.println("There are " + stateAbbreviations.size() + " states in map.");
     }
 }

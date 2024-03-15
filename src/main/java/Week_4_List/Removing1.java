@@ -23,7 +23,7 @@ public class Removing1 {
 
         System.out.println();
 
-        // if you want to know where data is.
+        // if you want to know where data is
         for (int i = 0; i < classNames.size(); i++){
             System.out.println(classNames.get(i));
        //     classNames.remove(0);  // This miss list or don't print all list.
