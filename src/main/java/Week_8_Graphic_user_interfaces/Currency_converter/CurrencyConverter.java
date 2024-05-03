@@ -26,7 +26,7 @@ public class CurrencyConverter extends JFrame {
         setVisible(true);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
-        getRootPane().setDefaultButton(convertButton);
+        getRootPane().setDefaultButton(convertButton); // Click we press enter
 
         currencyComboBox.addItem(Euros);
         currencyComboBox.addItem(Pounds);
